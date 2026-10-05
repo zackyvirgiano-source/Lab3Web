@@ -2,8 +2,8 @@
 
 Repository ini dibuat untuk menyelesaikan tugas Praktikum 3 Pemrograman Web.  
   
-Nama : Fachmi Amrullah 
-NIM : 312510246
+Nama :  Muhammad Zacky Virgiano 
+NIM : 312510349
 Kelas : I251B  
 Mata Kuliah : Pemrograman Web  
 
@@ -14,8 +14,9 @@ Mata Kuliah : Pemrograman Web
 Lab2Web/
 ├── index.html
 ├── style_eksternal.css
+├── README.md
 ```
-<img width="242" height="103" alt="Screenshot 2026-10-05 140242" src="https://github.com/user-attachments/assets/932409f4-a9a2-4997-93a0-29038cc2d18d" />
+<img width="428" height="160" alt="image" src="https://github.com/user-attachments/assets/c8d505fe-65e8-4705-9bb5-ccc69731c380" />
 
 
 
@@ -24,38 +25,39 @@ Lab2Web/
 ### 1. Membuat Dokumen HTML
 
 pada langkah ini kita membuat tampilan awal menggunakan HTML
-<img width="1263" height="743" alt="Screenshot 2026-10-05 132825" src="https://github.com/user-attachments/assets/6dec5675-aa39-4b1c-8bae-458510031d69" />
+<img width="1107" height="866" alt="image" src="https://github.com/user-attachments/assets/dc368574-e0f4-4f07-a430-533acfee7910" />
 
-<img width="956" height="353" alt="Screenshot 2026-10-05 132847" src="https://github.com/user-attachments/assets/d8b01a51-b9f2-4abc-8309-a3040914cdfc" />
+<img width="1916" height="345" alt="image" src="https://github.com/user-attachments/assets/393c0cbf-2357-40fc-8774-9217794bf445" />
+
 
 
 ### 2. Mendeklarasikan CSS internal
 kemudian tambahkan deklarasi CSS internal dibagian ('head')
 
-<img width="922" height="620" alt="Screenshot 2026-10-05 133558" src="https://github.com/user-attachments/assets/3a7b4f12-a259-44ae-bd5c-74cb2b14e073" />
+<img width="1072" height="768" alt="image" src="https://github.com/user-attachments/assets/da5b9f23-3b45-416a-80b0-d6d8b41c77ac" />
 
-<img width="952" height="388" alt="Screenshot 2026-10-05 133611" src="https://github.com/user-attachments/assets/2e3f7d20-cbed-4ad8-9ce1-d00fe4579f9d" />
+<img width="1912" height="391" alt="image" src="https://github.com/user-attachments/assets/d7528c63-73d5-4e16-8112-ec8d4170b18e" />
 
 
 ### 3. Menambahkan Inline CSS
 
 Tambahkan deklrasi inline CSS pada tag <p>
 
-<img width="1432" height="265" alt="Screenshot 2026-10-05 133924" src="https://github.com/user-attachments/assets/22cdc7c9-ceac-40a4-9e0a-20b6b73cf2ce" />
+<img width="1050" height="342" alt="image" src="https://github.com/user-attachments/assets/a7c2460d-bf33-4f10-9ff0-92c2f8cc8abe" />
 
-<img width="956" height="402" alt="Screenshot 2026-10-05 133938" src="https://github.com/user-attachments/assets/9eb15acd-a1df-426e-a441-b235e6007fd5" />
+<img width="1915" height="412" alt="image" src="https://github.com/user-attachments/assets/033a6b07-5d63-4663-ad22-056070b454eb" />
 
 
 ### 4. Membuat CSS eksternal
 
 menambahkan css eksternal dengan membuat file baru dengan nama style_eksternal.css
 
-<img width="850" height="197" alt="Screenshot 2026-10-05 134552" src="https://github.com/user-attachments/assets/5a390562-a276-49c3-88a7-ddfbd0664df4" />
+<img width="786" height="90" alt="image" src="https://github.com/user-attachments/assets/2cbe21c9-9ec2-4dac-94c7-2759b6bb8e5e" />
 
 
-<img width="681" height="321" alt="Screenshot 2026-10-05 134600" src="https://github.com/user-attachments/assets/23756ffb-c083-4b68-be62-bfd4a03c165d" />
+<img width="495" height="511" alt="image" src="https://github.com/user-attachments/assets/c6e225cd-3408-4893-9490-e40353752e3a" />
 
-<img width="1917" height="471" alt="Screenshot 2026-10-05 134622" src="https://github.com/user-attachments/assets/3ed3f7fc-acbc-4566-b1be-c9bb400f7a3b" />
+<img width="1908" height="471" alt="image" src="https://github.com/user-attachments/assets/03b95450-6d87-4dbd-94df-fac8e2339896" />
 
 
 
@@ -63,10 +65,11 @@ menambahkan css eksternal dengan membuat file baru dengan nama style_eksternal.c
 
 menambahkan CSS selector menggunakan ID dan Class Selector pada file style_eksternal.css.
 
-<img width="916" height="543" alt="Screenshot 2026-10-05 135217" src="https://github.com/user-attachments/assets/1eec39e2-18e3-4e24-926b-89de3e79e15b" />
+<img width="970" height="601" alt="image" src="https://github.com/user-attachments/assets/93bc4073-7a37-48a3-bbe4-160ea0fd59de" />
 
 
-<img width="1917" height="527" alt="Screenshot 2026-10-05 135230" src="https://github.com/user-attachments/assets/f13dc673-f9ca-4198-9aa6-40f284137077" />
+<img width="1910" height="480" alt="image" src="https://github.com/user-attachments/assets/4cfcf43a-96b0-4403-825c-2e39cdaf1be8" />
+
 
 
 
@@ -75,7 +78,7 @@ menambahkan CSS selector menggunakan ID dan Class Selector pada file style_ekste
 
 Tahap terakhir yaitu memvalidasi css dengan menggunakan https://jigsaw.w3.org/css-validator/validator
 
-<img width="1882" height="917" alt="Screenshot 2026-10-05 135614" src="https://github.com/user-attachments/assets/de55c518-45d2-465f-b863-bc7e9a4437eb" />
+<img width="1848" height="675" alt="image" src="https://github.com/user-attachments/assets/e831ff25-932a-4b84-b0ee-15a557e9724f" />
 
 
 
